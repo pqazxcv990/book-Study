@@ -1,5 +1,4 @@
 # book-Study
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 <br />
@@ -15,7 +14,7 @@ I am pqazxcv990 hi!!
 <code><img height="20" alt="css3" src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=000000"></code>
 
   
-| <a href="https://github.com/pqazxcv990/pqazxcv990"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pqazxcv990&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/pqazxcv990/pqazxcv990"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqazxcv990&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/pqazxcv990/book_study"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pqazxcv990&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/pqazxcv990/book_study"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pqazxcv990&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
   
