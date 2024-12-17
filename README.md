@@ -1,7 +1,7 @@
 # book-Study
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
-<h1> 안녕하세요 하민이의 공부기록방입니다>
+<h1> 안녕하세요 하민이의 공부기록방입니다<h1>
 <h1> 독서록 </h1>
 <ul>
   <li>give and take</li>
