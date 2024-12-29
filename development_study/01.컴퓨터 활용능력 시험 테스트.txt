@@ -1,0 +1,14 @@
+* 한글 windows 10 특징
+그래픽 사용자 인터페이스 사용
+선점형 멀티태스킹 
+플러그 앤 플레이
+ole
+64비트 데이터 처리
+
+*	f2 		f3		 f4		 f5		 f6		 f10		 alt+→,←		alt+esc		alt+tab		alt+enter		alt+spacebar
+alt+f4		alt+printscreen		alt+f8		ctrl+esc		ctrl+shift+esc		ctrl+마우스 스크롤		shift+delete		shift+f10
+윈도우		윈도우+D		윈도우+E		윈도우+F		윈도우+L		윈도우+M/ 윈도우+shift+m		윈도우 +R		윈도우+U		
+윈도우+T 		윈도우+A		윈도우+B		윈도우+alt+D		윈도우+I		윈도우+S		윈도우+ctrl+D		윈도우+ctrl+F4
+윈도우+home		윈도우+ ↑/←/→/↓		윈도우+ctrl +F		윈도우+Tab		윈도우+pause/break
+
+* 바로 가기 아이콘(단축 아이콘)
